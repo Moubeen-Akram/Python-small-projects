@@ -19,8 +19,8 @@ Future Improvements:
   Improve UI design with themes/colors.
   Add keyboard input support.
 
-![Calculator Screenshot](<img width="570" height="276" alt="image" src="https://github.com/user-attachments/assets/eaf748b3-5679-433f-bff8-16d81e32eaec" />
-)
+![Calculator Screenshot](https://github.com/user-attachments/assets/eaf748b3-5679-433f-bff8-16d81e32eaec)
+
 
 
 
