@@ -19,6 +19,11 @@ Future Improvements:
   Improve UI design with themes/colors.
   Add keyboard input support.
 
+Screenshot: 
+<img width="367" height="276" alt="image" src="https://github.com/user-attachments/assets/e1f43d5f-cf9f-4032-b27d-83f430d20fc4" />
+
+
+
 How to Run 🚀
   Clone this repository:
     git clone  https://github.com/Moubeen-Akram/Python-small-projects.git
@@ -26,5 +31,7 @@ How to Run 🚀
     cd GUI-Calculator
   Run the program:
     python main.py
+
+
 
 Hope you enjoy it.
