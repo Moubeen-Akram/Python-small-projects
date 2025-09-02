@@ -4,35 +4,46 @@ My first python project in which I learned about GUI, how to display screens and
 Enjoyed doing it.
 
 Features:
+
   Clean and simple interface
+
   Buttons for numbers (0–9) and operators (+, -, ×, ÷)
+  
   Clear (C) button to reset the screen
+  
   Equal (=) button to calculate the result
+  
   Error handling for invalid operations (like divide by zero)
 
 Used:
+  
   Python 3
+  
   Tkinter
 
 Future Improvements:
+  
   Add more advanced operations (square root, power, percentage).
+  
   Improve UI design with themes/colors.
+  
   Add keyboard input support.
 
-![Calculator Screenshot](https://github.com/user-attachments/assets/eaf748b3-5679-433f-bff8-16d81e32eaec)
+![Calculator Screenshot](https://github.com/user-attachments/assets/afe65e39-22a9-41ee-980e-7f9ef37afdd6)
 
 
+How to Run:
 
-
-
-How to Run 🚀
   Clone this repository:
+
     git clone  https://github.com/Moubeen-Akram/Python-small-projects.git
+  
   Navigate to the project folder:
+   
     cd GUI-Calculator
+  
   Run the program:
+  
     python main.py
-
-
 
 Hope you enjoy it.
