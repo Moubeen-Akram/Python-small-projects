@@ -29,7 +29,7 @@ Future Improvements:
   
   Add keyboard input support.
 
-![Calculator Screenshot]("https://github.com/user-attachments/assets/3dbb26bc-a52e-45a7-bbe9-fb220392c96a")
+![Calculator Screenshot](https://github.com/user-attachments/assets/3dbb26bc-a52e-45a7-bbe9-fb220392c96a)
 
 
 How to Run:
